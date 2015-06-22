@@ -1,8 +1,5 @@
 package Trees;
 
-/**
- * Created by dani on 6/13/15.
- */
 public class BinaryTreeNode {
     int data;
     BinaryTreeNode left;
